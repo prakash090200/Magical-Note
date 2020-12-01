@@ -1,7 +1,8 @@
 # Magical-Note Using JavaScript
-Created My magical Notes where i can add my notes. I have implemented a filter on these notes which can find and notes even if i have 1000+ notes in my document.
+Sometimes we have a lot of small works queued in our mind and its obvious that we may forget it like my friend's birthday, quiz date, Exam dates, Some appointment,etc.
+So ,I Created My magical Notes where i can add my notes . I have implemented a filter on these notes which can help me to find one among 1000+ notes in my document.
 In my magical notes i made use of localStorage which will not erase my data even when the page is reloaded. 
-It mean without using ang backend i am able to restore all my previous data and in case any note passes the dead line it can be deleted immediately.
+It mean without using anY backend i am able to restore all my previous data and in case any note passes the dead line it can be delete immediately.
 
 ## Screenshot:
 
