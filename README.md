@@ -10,6 +10,7 @@ It mean without using ang backend i am able to restore all my previous data and 
 
 
 ### Added a searching filter to search for note in case i have 100+ magical notes.
-![image](https://user-images.githubusercontent.com/59432256/100758320-62b63d00-3415-11eb-8e78-90f7f3ef1272.png)
+![image](https://user-images.githubusercontent.com/59432256/100759693-ed4b6c00-3416-11eb-8c05-04502ffb18f9.png)
+
 
 
